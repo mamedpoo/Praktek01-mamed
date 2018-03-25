@@ -12,6 +12,31 @@ package praktek01.mamed;
 public class jamtanganaksi {
     public static void main(String[] args) {
         
+        JamTangan A = new JamTangan();
+        JamTangan B = new JamTangan();
+        JamTangan C = new JamTangan();
+        
+
+        A.TaliJam="Karet";
+        A.JenisJam="Digital";
+        A.Merk="Armagethon";
+        A.Bahan="Steanlessstell";
+        A.ThnPmbuatan="2011";
+
+        B.TaliJam="Kulit";
+        B.JenisJam="Analog";
+        B.Merk="Swiss Army";
+        B.Bahan="Plastik";
+        B.ThnPmbuatan="1998";
+
+        C.TaliJam="Besi";
+        C.JenisJam="SmartWatch";
+        C.Merk="AppleWatch";
+        C.Bahan="Kayu";
+        C.ThnPmbuatan="2018";
+        
+        
+
+
     }
-    
 }
