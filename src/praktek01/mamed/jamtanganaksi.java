@@ -36,7 +36,12 @@ public class jamtanganaksi {
         C.ThnPmbuatan="2018";
         
         
-
+         
+         A.MenampilkanWaktu();
+        System.out.println();
+         B.MenampilkanWaktu();
+        System.out.println();
+         C.MenampilkanWaktu();
 
     }
 }

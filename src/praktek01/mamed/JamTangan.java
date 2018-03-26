@@ -20,6 +20,7 @@ public class JamTangan {
          System.out.println("TaliJam                 :"+TaliJam);
          System.out.println("JenisJam                :"+JenisJam);
          System.out.println("Merk                    :"+Merk);
+         System.out.println("Bahan                   :"+Bahan);
          System.out.println("ThnPmbuatan             :"+ThnPmbuatan);
     }
     
